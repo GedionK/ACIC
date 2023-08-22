@@ -85,7 +85,7 @@ define( 'FS_METHOD', 'direct' );
 /* Add any custom values between this line and the "stop editing" line. */
 
 
-
+define( 'WP_MEMORY_LIMIT', '256M' );
 /* That's all, stop editing! Happy publishing. */
 
 /** Absolute path to the WordPress directory. */
